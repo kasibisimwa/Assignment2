@@ -1,0 +1,19 @@
+#left{
+	background-color: yellow;
+	float: left;
+	width: 300px;
+}
+#right{
+	background-color: aqua;
+	float: right;
+	width: 300px;
+}
+#name{
+	text-align: center;
+	background-color: blue;
+	color: white;
+}
+img{
+	border-radius: 60%;
+
+}
