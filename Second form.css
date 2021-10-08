@@ -1,0 +1,15 @@
+#container{
+	background-color: seagreen;
+}
+#div-2{
+	width: auto;
+	height: auto;
+	display:inline-flex;
+}
+img{
+	border-radius: 50px;
+
+}
+h1{
+	text-decoration-line: underline;
+}

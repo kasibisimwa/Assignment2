@@ -1,19 +1,23 @@
 #left{
 	background-color: yellow;
 	float: left;
-	width: 300px;
+	
 }
 #right{
 	background-color: aqua;
 	float: right;
-	width: 300px;
+	
 }
 #name{
 	text-align: center;
 	background-color: blue;
 	color: white;
+	height: 120px;
 }
 img{
-	border-radius: 60%;
+	border-radius: 50%;
 
+}
+#division-section{
+	display: flex;
 }
